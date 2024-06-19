@@ -43,7 +43,7 @@
   
 <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=ppbiancav&icons=true&hide_border=true&theme=monokai"/>
 <img align="right" alt="Bibi-Cat" height="250" width="300" src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-85.gif">
- <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppbiancav&hide_border=true&theme=monokai&layout=compact"/>
+<img width="49%" height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppbiancav&hide_border=true&theme=monokai&layout=compact"/>
 <div>
 
 
